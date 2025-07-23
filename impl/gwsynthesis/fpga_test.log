@@ -1,6 +1,7 @@
 GowinSynthesis start
 Running parser ...
 Analyzing Verilog file '/home/amajid/Desktop/tang_premier_25k/projects/fpga_test/src/top.v'
+Analyzing Verilog file '/home/amajid/Desktop/tang_premier_25k/projects/fpga_test/src/top_2.v'
 Compiling module 'top'("/home/amajid/Desktop/tang_premier_25k/projects/fpga_test/src/top.v":1)
 Compiling module 'decimal_1_counter_pmod'("/home/amajid/Desktop/tang_premier_25k/projects/fpga_test/src/top.v":20)
 NOTE  (EX0101) : Current top module is "top"

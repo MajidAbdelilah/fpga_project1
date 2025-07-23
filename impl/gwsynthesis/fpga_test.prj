@@ -5,6 +5,7 @@
     <Device id="GW5A-25A" package="MBGA121N" speed="1" partNumber="GW5A-LV25MG121NC1/I0"/>
     <FileList>
         <File path="/home/amajid/Desktop/tang_premier_25k/projects/fpga_test/src/top.v" type="verilog"/>
+        <File path="/home/amajid/Desktop/tang_premier_25k/projects/fpga_test/src/top_2.v" type="verilog"/>
     </FileList>
     <OptionList>
         <Option type="disable_insert_pad" value="0"/>
