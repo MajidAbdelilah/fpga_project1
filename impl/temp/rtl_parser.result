@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "/home/amajid/Desktop/tang_premier_25k/projects/fpga_test/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "/home/amajid/Desktop/tang_premier_25k/projects/fpga_test/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "/home/amajid/Desktop/tang_premier_25k/projects/fpga_test/src/top.v",
+    "InstLine" : 14,
+    "InstName" : "c1",
+    "ModuleFile" : "/home/amajid/Desktop/tang_premier_25k/projects/fpga_test/src/top.v",
+    "ModuleLine" : 20,
+    "ModuleName" : "decimal_1_counter_pmod"
+   }
+  ]
+ }
+]
